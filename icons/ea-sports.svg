@@ -1,0 +1,12 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Clean EA Sports badge -->
+  <rect x="0" y="0" width="120" height="40" rx="4" fill="#000000" opacity="0.8"/>
+
+  <text x="10" y="25" fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold" font-size="12px">EA SPORTS</text>
+
+  <!-- Small football icon -->
+  <circle cx="105" cy="20" r="6" fill="#dc2626" stroke="#ffffff" stroke-width="1"/>
+
+  <!-- Mini FC26 text -->
+  <text x="90" y="33" fill="#fbbf24" font-family="Arial, sans-serif" font-weight="bold" font-size="8px">FC26</text>
+</svg>

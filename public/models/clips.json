@@ -1,0 +1,174 @@
+{
+ "jog": {
+  "speed": 2.572,
+  "phase0": 0.28,
+  "frames": 25,
+  "dir": "f",
+  "fwd": 2.57,
+  "lat": -0.02
+ },
+ "jog_back": {
+  "speed": 2.264,
+  "phase0": 0.417,
+  "frames": 24,
+  "dir": "b",
+  "fwd": -2.26,
+  "lat": -0.21
+ },
+ "shuffle_L": {
+  "speed": 2.951,
+  "phase0": 0.381,
+  "frames": 21,
+  "dir": "l",
+  "fwd": -0.49,
+  "lat": 2.95
+ },
+ "shuffle_R": {
+  "speed": 2.332,
+  "phase0": 0.909,
+  "frames": 22,
+  "dir": "r",
+  "fwd": 0.5,
+  "lat": -2.33
+ },
+ "jog_fl": {
+  "speed": 2.113,
+  "phase0": 0.76,
+  "frames": 25,
+  "dir": "fl",
+  "fwd": 2.11,
+  "lat": 1.53
+ },
+ "jog_fr": {
+  "speed": 2.146,
+  "phase0": 0.833,
+  "frames": 24,
+  "dir": "fr",
+  "fwd": 2.15,
+  "lat": -1.76
+ },
+ "jog_bl": {
+  "speed": 2.024,
+  "phase0": 0.44,
+  "frames": 25,
+  "dir": "bl",
+  "fwd": -2.02,
+  "lat": 1.57
+ },
+ "jog_br": {
+  "speed": 2.1,
+  "phase0": 0.955,
+  "frames": 22,
+  "dir": "br",
+  "fwd": -0.85,
+  "lat": -2.1
+ },
+ "gk_side_L": {
+  "speed": 2.292,
+  "phase0": 0.938,
+  "frames": 16,
+  "dir": "gl",
+  "fwd": -0.38,
+  "lat": 2.29
+ },
+ "gk_side_R": {
+  "speed": 2.658,
+  "phase0": 0.667,
+  "frames": 15,
+  "dir": "gr",
+  "fwd": 0.6,
+  "lat": -2.66
+ },
+ "run": {
+  "speed": 4.783,
+  "phase0": 0.167,
+  "frames": 18,
+  "dir": "f",
+  "fwd": 4.78,
+  "lat": 0.02
+ },
+ "walk": {
+  "speed": 1.014,
+  "phase0": 0.073,
+  "frames": 41,
+  "dir": "f",
+  "fwd": 1.01,
+  "lat": 0.0
+ },
+ "sprint": {
+  "speed": 9.519,
+  "phase0": 0.048,
+  "frames": 21,
+  "dir": "f",
+  "fwd": 9.52,
+  "lat": -0.03
+ },
+ "run2": {
+  "speed": 5.846,
+  "phase0": 0.882,
+  "frames": 17,
+  "dir": "f",
+  "fwd": 5.85,
+  "lat": 0.56,
+  "variant": "run"
+ },
+ "run_fast": {
+  "speed": 6.824,
+  "phase0": 0.095,
+  "frames": 21,
+  "dir": "f",
+  "fwd": 6.82,
+  "lat": 0.14
+ },
+ "walk2": {
+  "speed": 1.542,
+  "phase0": 0.0,
+  "frames": 32,
+  "dir": "f",
+  "fwd": 1.54,
+  "lat": -0.06,
+  "variant": "walk"
+ },
+ "walk3": {
+  "speed": 1.689,
+  "phase0": 0.967,
+  "frames": 30,
+  "dir": "f",
+  "fwd": 1.69,
+  "lat": -0.24,
+  "variant": "walk"
+ },
+ "run_back": {
+  "speed": 4.783,
+  "phase0": 0.556,
+  "frames": 18,
+  "dir": "b",
+  "fwd": -4.78,
+  "lat": -0.02
+ },
+ "walk_back": {
+  "speed": 1.014,
+  "phase0": 0.415,
+  "frames": 41,
+  "dir": "b",
+  "fwd": -1.01,
+  "lat": -0.0
+ },
+ "_contact": {
+  "shot": 0.467,
+  "pass_short": 0.433,
+  "header": 0.813,
+  "throw_in": 1.3,
+  "gk_catch": 0.283,
+  "gk_catch_low": 0.583,
+  "gk_catch_high": 0.683,
+  "gk_throw": 1.3,
+  "gk_punt": 1.9,
+  "pass_long": 0.167,
+  "shot_finesse": 0.167
+ },
+ "_turn": {
+  "turn_L": 68.4,
+  "turn_R": -73.5
+ }
+}

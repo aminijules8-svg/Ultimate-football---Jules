@@ -1,0 +1,17 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="300" height="80" rx="8" fill="#0f172a" stroke="#1e3a8a" stroke-width="2"/>
+
+  <!-- EA Sports-style icon -->
+  <rect x="10" y="10" width="60" height="60" rx="4" fill="#dc2626" stroke="#fbbf24" stroke-width="2"/>
+
+  <!-- Text elements -->
+  <text x="76" y="45" fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold" font-size="16px">ULTIMATE</text>
+  <text x="76" y="65" fill="#fbbf24" font-family="Arial, sans-serif" font-weight="bold" font-size="14px">FOOTBALL STUDIO</text>
+
+  <!-- EA Sports watermark -->
+  <text x="270" y="70" text-anchor="end" fill="#94a3b0" font-family="Arial, sans-serif" font-weight="normal" font-size="10px">EA SPORTS TECH</text>
+
+  <!-- Subtle logo mark -->
+  <text x="150" y="70" text-anchor="middle" fill="#1e3a8a" font-family="Arial, sans-serif" font-weight="normal" font-size="8px">⚽ Next-Gen Simulation</text>
+</svg>

@@ -1,0 +1,10 @@
+node_modules/
+captures/
+dist/
+.DS_Store
+.superpowers/
+public/models/*.blend
+public/models/*.blend1
+public/models/preview_*.png
+tools/assets/_src/
+__pycache__/

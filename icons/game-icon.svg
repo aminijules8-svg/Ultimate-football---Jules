@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main background -->
+  <circle cx="256" cy="256" r="240" fill="#1e3a8a" stroke="#fbbf24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Football body -->
+  <path d="M256 80 L150 160 L180 240 L256 260 L332 240 L362 160 Z" fill="#dc2626" stroke="#fbbf24" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Football details -->
+  <path d="M256 260 L220 300 L180 280 L256 340 L332 280 L292 300 Z" fill="#fbbf24" stroke="#ffffff" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Eye -->
+  <circle cx="200" cy="180" r="12" fill="#ffffff" stroke="#1e3a8a" stroke-width="2"/>
+
+  <!-- Eye highlight -->
+  <circle cx="200" cy="180" r="4" fill="#ffffff"/>
+
+  <!-- Football stitching details -->
+  <rect x="220" y="185" width="40" height="4" fill="#ffffff" transform="rotate(45 220 185)"/>
+  <rect x="248" y="170" width="16" height="3" fill="#ffffff" transform="rotate(-30 248 170)"/>
+
+  <!-- FC26 branding -->
+  <text x="256" y="285" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold" font-size="28px">FC26</text>
+
+  <!-- Subtitle (if needed on main icon) -->
+  <text x="256" y="325" text-anchor="middle" fill="#fbbf24" font-family="Arial, sans-serif" font-weight="bold" font-size="12px">ULTIMATE</text>
+</svg>

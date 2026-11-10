@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Compact design -->
+  <circle cx="256" cy="256" r="120" fill="#1e3a8a" stroke="#fbbf24" stroke-width="3"/>
+
+  <!-- Simplified football -->
+  <path d="M256 120 L180 200 L210 240 L256 250 L302 240 L332 200 Z" fill="#dc2626" stroke="#fbbf24" stroke-width="2"/>
+
+  <!-- Eye -->
+  <circle cx="192" cy="160" r="4" fill="#ffffff"/>
+
+  <!-- FC26 text -->
+  <text x="256" y="250" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold" font-size="8px">FC26</text>
+</svg>
